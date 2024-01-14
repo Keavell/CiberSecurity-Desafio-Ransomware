@@ -8,7 +8,7 @@ Pequeno exemplo de ransomware para criptografar um arquivo txt de teste.
 - Python
 
 ### Observações: 
-- Possivelmente terá que importar o pacote "pyaes". Utilize o seguinte comando no cmd: <b>py -m pip install pyaes</b>
+- Possivelmente terá que instalar o pacote "pyaes". Utilize o seguinte comando no cmd: <b>py -m pip install pyaes</b>
 
 ## Resultado esperado:
 
